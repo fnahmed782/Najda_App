@@ -8,7 +8,7 @@ import 'screens/instructions_screen.dart';
 import 'screens/about_screen.dart';
 
 // استيراد البروفايدر
-import 'providers/emergency_provider.dart';
+import 'providers/emergent_provider.dart';
 
 void main() {
   // لضمان عمل الخدمات المصغرة مثل Shared Preferences قبل تشغيل التطبيق
